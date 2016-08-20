@@ -14,7 +14,7 @@ The visitor selects a country from a dropdown menu to learn some interesting but
 <ul>
 <li>getCountryData - custom </li>
 <li>currencylayer - pubic API - exchange rate & currency converter | https://currencylayer.com/</li>
-<li>NOAA - public API - weather and climate data http://www.ncdc.noaa.gov/cdo-web/webservices/v2</li>
+<li>NOAA - public API - weather and climate data | http://www.ncdc.noaa.gov/cdo-web/webservices/v2</li>
 </ul>
 <h3>Technologies</h3>
 <ul>
