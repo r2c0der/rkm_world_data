@@ -8,7 +8,7 @@
 World Data webapp/module is an informational and practice application. Once completed it will integrate several custom and publically available APIs and web services. The end goal is to port the web application to a mobile app on the Google store. 
 
 <h4>How does it work? </h4>
-The visitor selects a country from a dropdown menu to learn some interesting but high level facts of a select number of countries. Selecting a country will make calls to parse through .ini (create navigation and set configurations), .json (format of web service and API calls)  and .xml (custom - parsed for sitemap) and other external resources to render several panels of information. 
+The visitor selects a country from a dropdown menu to learn some interesting but high level facts of a particular country. Selecting a country initiates calls to parse through .ini files (create navigation and set configurations), .json files (format of web service and API calls)  and .xml files (custom - parsed for sitemap) and other external resources to render several panels of information. 
 
 <h3>RESTful Services</h3>
 <ul>
@@ -31,7 +31,7 @@ Create charts using D3js
 Alphabetical Navigation - leverages JQuery libraries & custom JQuery UI styles to override default bootstrap css.
 
 <h3>On the back-end</h3>
-<code> $_POST['country_code'] </code> captured in a session cookie and passes variable to function <code>processdata($file)</code> . This file mimics the role of controller in a MVC framework.
+<code> $_POST['country_code'] </code> captured in a session cookie is passed through a series of functions - simulating a domino effect. Simply choosing a country, the application displays country facts e.g. capital, population, government type and currency provided by a custom REST API.  The function <code>processdata($file)</code> processes the JSON file returned by the API and provides each external API/WebService with the appropriate parameter. The currency code is passed to the CurrencyLayer API which returns realtime currency conversion rates. The country code also is passed to the NOAA API which displays the weather for the area. 
 
 <h3>Three webservices are invoked based on the country_code:</h3>
 <h4>WS_country</h4>
