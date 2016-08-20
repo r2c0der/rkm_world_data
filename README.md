@@ -26,14 +26,11 @@ Alphabetical Navigation - leverages JQuery libraries & custom JQuery UI styles t
 <code> $_POST['country_code'] </code> captured in a session cookie and passes variable to function <code>processdata($file)</code> . This file mimics the role of controller in a MVC framework.
 
 <h3>Three webservices are invoked based on the country_code:</h3>
-<h4>Webservices_country</h4>
-- Custom API
-- Call for the return of the specific country information stored in a json file.
+<h4>WS_country</h4>
+Custom API | Returns the specific country information stored in a json file.
 
-Webservices_currency
-Public API
-Call to the currency conversion based on visitor's selection of currency rate to convert to from source country
+<h4>WS_currency</h4>
+Public API | Returns currency conversion based on visitor's country selection
 
-Webservices_weather
-Public API
-Call to the weather data based on visitor's initial country source selection.
+<h4>WS_weather </h4>
+Public API | Returns the weather data based on visitor's country  selection.
