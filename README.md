@@ -1,4 +1,9 @@
 # rkm_world_data
+
+<img src="http://world-data.r2wiki.com/assets/graphics/wd_headerImage_v2.png" height="150" />
+
+<h2>World Data Experiment</h2>
+
 <h3>Summary</h3>
 World Data webapp/module is an informational and practice application. Once completed it will integrate several custom and publically available APIs and web services. The end goal is to port the web application to a mobile app on the Google store. 
 
