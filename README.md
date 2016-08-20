@@ -6,15 +6,15 @@ World Data webapp/module is an informational and practice application. Once comp
 The visitor selects a country from a dropdown menu to learn some interesting but high level facts of a select number of countries. Selecting a country will make calls to parse through .ini (create navigation and set configurations), .json (format of web service and API calls)  and .xml (custom - parsed for sitemap) and other external resources to render several panels of information. 
 
 <h3>RESTful Services</h3>
-getCountryData - custom
-currencylayer - pubic API - exchange rate & currency converter | https://currencylayer.com/
-NOAA - public API - weather and climate data http://www.ncdc.noaa.gov/cdo-web/webservices/v2
+getCountryData - custom <br />
+currencylayer - pubic API - exchange rate & currency converter | https://currencylayer.com/<br />
+NOAA - public API - weather and climate data http://www.ncdc.noaa.gov/cdo-web/webservices/v2<br />
 
 <h3>Technologies</h3>
-Twitter Bootstrap Framework
-JQuery & JQuery UI
-JSON parsing
-AngularJS
+Twitter Bootstrap Framework<br />
+JQuery & JQuery UI<br />
+LESS <br />
+AngularJS <br />
 
 //TODO
 Create charts using D3js
