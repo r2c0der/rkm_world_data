@@ -1,0 +1,503 @@
+﻿{
+	"data": [{
+			"name": "afghanistan ",
+			"capital": "kabul ",
+			"population": 2206300,
+			"governmentType": "taliban",
+			"currency": "afghani ",
+			"currencyCode": "AFN ",
+			"countryCode": "AFG",
+			"flag": "afghanistan"
+		}, {
+			"name": "angola",
+			"capital": "luanda ",
+			"population": 2297200,
+			"governmentType": "multiparty democracy ",
+			"currency": "new kwanza ",
+			"currencyCode": "AOA ",
+			"countryCode": "AGO",
+			"flag": "angola"
+		},
+
+		{
+			"name": "bangladesh ",
+			"capital": "dhaka ",
+			"population": 12560000,
+			"governmentType": "parliamentary democracy ",
+			"currency": "taka ",
+			"currencyCode": "BDT",
+			"countryCode": "BGD",
+			"flag": "bangladesh"
+		},
+
+		{
+			"name": "barbados ",
+			"capital": "bridgetown ",
+			"population": 98900,
+			"governmentType": "parliamentary democracy ",
+			"currency": "barbados dollar",
+			"currencyCode": "BBD",
+			"countryCode": "BRB",
+			"flag": "barbados"
+		},
+
+		{
+			"name": "belarus",
+			"capital": " minsk",
+			"population": 1769500,
+			"governmentType": "republic ",
+			"currency": "belorussian ruble",
+			"currencyCode": "BYR",
+			"countryCode": "BLR",
+			"flag": "belarus"
+		},
+
+		{
+			"name": "botswana ",
+			"capital": " gaborone",
+			"population": 195000,
+			"governmentType": "parliamentary republic ",
+			"currency": "pula ",
+			"currencyCode": "BWP",
+			"countryCode": "BWA",
+			"flag": "botswana"
+		},
+
+		{
+			"name": "brazil ",
+			"capital": "brasília ",
+			"population": 2160100,
+			"governmentType": "federal republic ",
+			"currency": "real ",
+			"currencyCode": "BRL",
+			"countryCode": "BRA",
+			"flag": "brazil"
+		},
+
+		{
+			"name": " canada",
+			"capital": "ottawa",
+			"capital": "ontario",
+			"population": 1142700,
+			"governmentType": "constitutional monarchy ",
+			"currency": "canadian dollar ",
+			"currencyCode": "CAD",
+			"countryCode": "CAN",
+			"flag": "canada"
+		},
+
+		{
+			"name": "cape verde",
+			"capital": "praia ",
+			"population": 99400,
+			"governmentType": "republic ",
+			"currency": "cape verdean escudo ",
+			"currencyCode": "CVE",
+			"countryCode": "CPV",
+			"flag": "capeverde"
+		},
+
+		{
+			"name": " estonia",
+			"capital": "tallinn ",
+			"population": 379000,
+			"governmentType": "parliamentary democracy",
+			"currency": "kroon ",
+			"currencyCode": "EEK",
+			"countryCode": "EST",
+			"flag": "estonia"
+		},
+
+		{
+			"name": " ethiopia",
+			"capital": "addis ababa ",
+			"population": 2716200,
+			"governmentType": "federal republic ",
+			"currency": "birr ",
+			"currencyCode": "ETB",
+			"countryCode": "ETH",
+			"flag": "ethiopia"
+		},
+
+		{
+			"name": "india ",
+			"capital": "new delhi",
+			"population": 15334000,
+			"governmentType": "federal republic",
+			"currency": "rupee ",
+			"currencyCode": "INR",
+			"countryCode": "IND",
+			"flag": "india"
+		},
+
+		{
+			"name": "indonesia ",
+			"capital": "jakarta ",
+			"population": 13194000,
+			"governmentType": " republic",
+			"currency": "rupiah ",
+			"currencyCode": "IDR",
+			"countryCode": "IDN",
+			"flag": "indonesia"
+		},
+
+		{
+			"name": "islamic republic of iran ",
+			"capital": "tehran ",
+			"population": 7796257,
+			"governmentType": " islamic theocracy",
+			"currency": "rial ",
+			"currencyCode": "IRR",
+			"countryCode": "IRN"
+		},
+
+		{
+			"name": " ireland",
+			"capital": " dublin",
+			"population": 1018500,
+			"governmentType": "republic ",
+			"currency": " euro",
+			"currencyCode": "EUR",
+			"countryCode": "IRL",
+			"flag": "ireland"
+		},
+
+
+		{
+			"name": "israel ",
+			"capital": "jerusalem ",
+			"population": 695500,
+			"governmentType": "parliamentary democracy ",
+			"currency": "shekel ",
+			"currencyCode": "ILS",
+			"countryCode": "ISR",
+			"flag": "israel"
+		},
+
+
+		{
+			"name": "italy ",
+			"capital": "rome ",
+			"population": 3550900,
+			"governmentType": "republic ",
+			"currency": "euro ",
+			"currencyCode": "EUR",
+			"countryCode": "ITA",
+			"flag": "italy"
+		},
+
+
+		{
+			"name": " japan",
+			"capital": "tokyo ",
+			"population": 35327000,
+			"governmentType": " constitutional monarchy with a parliamentary government",
+			"currency": " yen",
+			"currencyCode": "JPY",
+			"countryCode": "JPN",
+			"flag": "japan"
+		},
+
+
+		{
+			"name": "jamaica ",
+			"capital": " kingston",
+			"population": 937700,
+			"governmentType": "constitutional parliamentary democracy ",
+			"currency": "jamaican dollar ",
+			"currencyCode": "JMD",
+			"countryCode": "JAM",
+			"flag": "jamaica"
+		},
+
+
+		{
+			"name": "kuwait ",
+			"capital": "kuwait ",
+			"population": 1709800,
+			"governmentType": "constitutional monarchy ",
+			"currency": " kuwaiti dinar",
+			"currencyCode": "KWD",
+			"countryCode": "KWT",
+			"flag": "kuwait"
+		},
+
+
+		{
+			"name": "lithuania ",
+			"capital": "vilnius",
+			"population": 543500,
+			"governmentType": "parliamentary democracy ",
+			"currency": "litas ",
+			"currencyCode": "LTL",
+			"countryCode": "LTU",
+			"flag": "lithuania"
+		},
+
+		{
+			"name": " luxembourg",
+			"capital": " luxembourg",
+			"population": 78800,
+			"governmentType": "constitutional monarchy ",
+			"currency": "euro ",
+			"currencyCode": "EUR",
+			"countryCode": "LUX",
+			"flag": "luxembourg"
+		},
+
+		{
+			"name": "marshall islands ",
+			"capital": "majuro ",
+			"population": 20500,
+			"governmentType": "constitutional government ",
+			"currency": " u.s. dollar",
+			"currencyCode": "USD",
+			"countryCode": "MHL",
+			"flag": "marshallislands"
+		},
+
+		{
+			"name": "mauritania ",
+			"capital": " nouakchott",
+			"population": 661400,
+			"governmentType": "military rule ",
+			"currency": " ouguiya",
+			"currencyCode": "USD",
+			"countryCode": "MRT",
+			"flag": "mauritania"
+		},
+
+		{
+			"name": " nepal",
+			"capital": " kathmandu",
+			"population": 1203100,
+			"governmentType": " republic",
+			"currency": "nepalese rupee ",
+			"currencyCode": "NPR",
+			"countryCode": "NPL",
+			"flag": "nepal"
+		}, {
+			"name": "romania ",
+			"capital": " bucharest",
+			"population": 1937000,
+			"governmentType": "republic ",
+			"currency": "leu ",
+			"currencyCode": "RON",
+			"countryCode": "ROU",
+			"flag": "romania"
+		}, {
+			"name": "new zealand",
+			"capital": "wellington ",
+			"population": 342500,
+			"governmentType": "parliamentary democracy",
+			"currency": "new zealand dollar",
+			"currencyCode": "NZD",
+			"countryCode": "NZL",
+			"flag": "newzealand"
+		},
+
+		{
+			"name": " pakistan",
+			"capital": "islamabad ",
+			"population": 601600,
+			"governmentType": "military rule  ",
+			"currency": " pakistan rupee",
+			"currencyCode": "PKR",
+			"countryCode": "PAK",
+			"flag": "pakistan"
+		},
+
+		{
+			"name": " palau",
+			"capital": "melekeok ",
+			"population": 1000,
+			"governmentType": "constitutional republic",
+			"currency": "u.s. dollar ",
+			"currencyCode": "USD",
+			"countryCode": "PLW",
+			"flag": "palau"
+		},
+
+		{
+			"name": "russia ",
+			"capital": "moscow",
+			"population": 11621000,
+			"governmentType": " constitutional federation",
+			"currency": "russian ruble ",
+			"currencyCode": "RUB",
+			"countryCode": "RUS",
+			"flag": "russia"
+		},
+
+		{
+			"name": "st. lucia ",
+			"capital": "castries ",
+			"population": 21000,
+			"governmentType": "parliamentary democracy ",
+			"currency": " east caribbean dollar",
+			"currencyCode": "XCD",
+			"countryCode": "LCA",
+			"flag": "stlucia"
+		},
+
+		{
+			"name": " saudi arabia",
+			"capital": " riyadh",
+			"population": 5451000,
+			"governmentType": "constitutional monarchy ",
+			"currency": "riyal ",
+			"currencyCode": "SAR",
+			"countryCode": "SAU",
+			"flag": "saudiarabia"
+		},
+
+		{
+			"name": "senegal ",
+			"capital": "dakar ",
+			"population": 3035000,
+			"governmentType": "multiparty democractic republic ",
+			"currency": "cfa franc ",
+			"currencyCode": "XAF",
+			"countryCode": "SEN",
+			"flag": "senegal"
+		},
+
+		{
+			"name": "serbia ",
+			"capital": "belgrade",
+			"population": 1135000,
+			"governmentType": " republic",
+			"currency": " euro &amp; dinar",
+			"currencyCode": "RSD",
+			"currencyCode": "EUR",
+			"countryCode": "SRB",
+			"flag": "serbia"
+		},
+
+		{
+			"name": "sweden ",
+			"capital": "stockholm ",
+			"population": 1385000,
+			"governmentType": " constitutional monarchy",
+			"currency": "krona ",
+			"currencyCode": "KNR",
+			"countryCode": "SWE",
+			"flag": "sweden"
+		},
+
+		{
+			"name": "switzerland ",
+			"capital": "bern ",
+			"population": 353000,
+			"governmentType": " federal republic",
+			"currency": " swiss franc",
+			"currencyCode": "SEK",
+			"countryCode": "SWZ",
+			"flag": "switzerland"
+		},
+
+		{
+			"name": "turkey",
+			"capital": " ankara",
+			"population": 4194000,
+			"governmentType": "republican parliamentary democracy ",
+			"currency": "turkish lira ",
+			"currencyCode": "TRY",
+			"countryCode": "TUR",
+			"flag": "turkey"
+		},
+
+		{
+			"name": " syrian arab republic",
+			"capital": " damascus",
+			"population": 2650000,
+			"governmentType": "republic under a military regime",
+			"currency": " syrian pound",
+			"currencyCode": "SYP",
+			"countryCode": "SYR",
+			"flag": "syria"
+		},
+
+		{
+			"name": "turkmenistan ",
+			"capital": "ashgabat ",
+			"population": 683000,
+			"governmentType": "one-party republic ",
+			"currency": "manat ",
+			"currencyCode": "TMT",
+			"countryCode": "TKM",
+			"flag": "turkmenistan"
+
+		},
+
+		{
+			"name": "tuvalu ",
+			"capital": " funafuti",
+			"population": 5000,
+			"governmentType": "constitutional monarchy with a parliamentary democracy ",
+			"currency": "australian dollar ",
+			"currencyCode": "AUD",
+			"countryCode": "TUV",
+			"flag": "tuvalu"
+		},
+
+		{
+			"name": "united arab emirates ",
+			"capital": " abu dhabi",
+			"population": 942000,
+			"governmentType": "federation ",
+			"currency": "u.a.e. dirham ",
+			"currencyCode": "AED",
+			"countryCode": "ARE",
+			"flag": "unitedarabemirates"
+
+		},
+
+
+		{
+			"name": "united kingdom ",
+			"capital": " london",
+			"population": 9005000,
+			"governmentType": " constitutional monarchy and parliamentary democracy",
+			"currency": " pound sterling",
+			"currencyCode": "GBP",
+			"countryCode": "GBR",
+			"flag": "unitedkingdom"
+		},
+
+		{
+			"name": " united states",
+			"capital": " washington   dC",
+			"population": 4705000,
+			"governmentType": "federal republic ",
+			"currency": " dollar",
+			"currencyCode": "USD",
+			"countryCode": "USA",
+			"flag": "unitedstates"
+		},
+
+
+		{
+			"name": " uruguay",
+			"capital": "montevideo ",
+			"population": 1672000,
+			"governmentType": "constitutional republic ",
+			"currency": "uruguay peso ",
+			"currencyCode": "UYU",
+			"countryCode": "URY",
+			"flag": "uruguay"
+		},
+
+
+		{
+			"name": " vietnam",
+			"capital": " hanoi",
+			"population": 2955000,
+			"governmentType": " communist state",
+			"currency": "dong ",
+			"currencyCode": "VND",
+			"countryCode": "VNM",
+			"flag": "vietnam"
+		}
+	]
+}

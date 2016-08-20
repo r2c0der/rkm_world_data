@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+  <Country>
+    <name>angola</name>
+    <capital>luanda</capital>
+    <population>2297200</population>
+    <governmentType>multiparty democracy</governmentType>
+    <currency>new kwanza</currency>
+    <currencyCode>aoa</currencyCode>
+    <countryCode>ago</countryCode>
+    <flag>angola</flag>
+  </Country>
+  <Country>
+    <name>bangladesh</name>
+    <capital>dhaka</capital>
+    <population>12560000</population>
+    <governmentType>parliamentary democracy </governmentType>
+    <currency>taka</currency>
+    <currencyCode>bdt</currencyCode>
+    <countryCode>bgd</countryCode>
+    <flag>bangladesh</flag>
+  </Country>
+  <Country>
+    <name>barbados</name>
+    <capital>bridgetown</capital>
+    <population>98900</population>
+    <governmentType>parliamentary democracy </governmentType>
+    <currency>barbados dollar</currency>
+    <currencyCode>bbd</currencyCode>
+    <countryCode>brb</countryCode>
+    <flag>barbados</flag>
+  </Country>
+  <Country>
+    <name>belarus</name>
+    <capital>minsk</capital>
+    <population>1769500</population>
+    <governmentType>republic </governmentType>
+    <currency>belorussian ruble</currency>
+    <currencyCode>byr</currencyCode>
+    <countryCode>blr</countryCode>
+    <flag>belarus</flag>
+  </Country>
+  <Country>
+    <name>botswana</name>
+    <capital>gaborone</capital>
+    <population>195000</population>
+    <governmentType>parliamentary republic </governmentType>
+    <currency>pula</currency>
+    <currencyCode>bwp</currencyCode>
+    <countryCode>bwa</countryCode>
+    <flag>botswana</flag>
+  </Country>
+  <Country>
+    <name>brazil</name>
+    <capital>brasília</capital>
+    <population>2160100</population>
+    <governmentType>federal republic </governmentType>
+    <currency>real</currency>
+    <currencyCode>brl</currencyCode>
+    <countryCode>bra</countryCode>
+    <flag>brazil</flag>
+  </Country>
+  <Country>
+    <name>canada</name>
+    <capital>ottawa</capital>
+    <population>1142700</population>
+    <governmentType>constitutional monarchy</governmentType>
+    <currency>canadian dollar</currency>
+    <currencyCode>cad</currencyCode>
+    <countryCode>can</countryCode>
+    <flag>canada</flag>
+    <capital>ontario</capital>
+  </Country>
+  <Country>
+    <name>cape verde</name>
+    <capital>praia</capital>
+    <population>99400</population>
+    <governmentType>republic </governmentType>
+    <currency>cape verdean escudo</currency>
+    <currencyCode>cve</currencyCode>
+    <countryCode>cpv</countryCode>
+    <flag>cape verde</flag>
+  </Country>
+  <Country>
+    <name>estonia</name>
+    <capital>tallinn</capital>
+    <population>379000</population>
+    <governmentType>parliamentary democracy</governmentType>
+    <currency>kroon</currency>
+    <currencyCode>eek</currencyCode>
+    <countryCode>est</countryCode>
+    <flag>estonia</flag>
+  </Country>
+  <Country>
+    <name>estonia</name>
+    <capital>addis ababa</capital>
+    <population>2716200</population>
+    <governmentType>federal republic</governmentType>
+    <currency>birr</currency>
+    <currencyCode>etb</currencyCode>
+    <countryCode>eth</countryCode>
+    <flag>ethiopia</flag>
+  </Country>
+  <Country>
+    <name>india</name>
+    <capital>new delhi</capital>
+    <population>15334000</population>
+    <governmentType>federal republic</governmentType>
+    <currency>rupee</currency>
+    <currencyCode>inr</currencyCode>
+    <countryCode>ind</countryCode>
+    <flag>india</flag>
+  </Country>
+  <Country>
+    <name>indonesia</name>
+    <capital>jakarta</capital>
+    <population>13194000</population>
+    <governmentType>republic</governmentType>
+    <currency>rupiah</currency>
+    <currencyCode>idr</currencyCode>
+    <countryCode>idn</countryCode>
+    <flag>indonesia</flag>
+  </Country>
+  <Country>
+    <name>islamic republic of iran</name>
+    <capital>tehran</capital>
+    <population>7796257</population>
+    <governmentType>islamic theocracy</governmentType>
+    <currency>rial</currency>
+    <currencyCode>irr</currencyCode>
+    <countryCode>irn</countryCode>
+    <flag>islamic republic of iran</flag>
+  </Country>
+  <Country>
+    <name>ireland</name>
+    <capital>dublin</capital>
+    <population>1018500</population>
+    <governmentType>republic</governmentType>
+    <currency>euro</currency>
+    <currencyCode>eur</currencyCode>
+    <countryCode>irl</countryCode>
+    <flag>ireland</flag>
+  </Country>
+  <Country>
+    <name>israel</name>
+    <capital>jerusalem</capital>
+    <population>695500</population>
+    <governmentType>parliamentary democracy</governmentType>
+    <currency>shekel</currency>
+    <currencyCode>ils</currencyCode>
+    <countryCode>isr</countryCode>
+    <flag>israel</flag>
+  </Country>
+  <Country>
+    <name>italy</name>
+    <capital>rome</capital>
+    <population>3550900</population>
+    <governmentType>republic</governmentType>
+    <currency>euro</currency>
+    <currencyCode>eur</currencyCode>
+    <countryCode>ita</countryCode>
+    <flag>italy</flag>
+  </Country>
+  <Country>
+    <name>japan</name>
+    <capital>tokyo</capital>
+    <population>35327000</population>
+    <governmentType>constitutional monarchy with a parliamentary government</governmentType>
+    <currency>yen</currency>
+    <currencyCode>jpy</currencyCode>
+    <countryCode>jpn</countryCode>
+    <flag>japan</flag>
+  </Country>
+  <Country>
+    <name>jamaica</name>
+    <capital>kingston</capital>
+    <population>937700</population>
+    <governmentType>constitutional parliamentary democracy </governmentType>
+    <currency>jamaican dollar</currency>
+    <currencyCode>jmd</currencyCode>
+    <countryCode>jam</countryCode>
+    <flag>jamaica</flag>
+  </Country>
+  <Country>
+    <name>kuwait</name>
+    <capital>kuwait</capital>
+    <population>1709800</population>
+    <governmentType>constitutional monarchy</governmentType>
+    <currency>kuwaiti dinar</currency>
+    <currencyCode>kwd</currencyCode>
+    <countryCode>kwt</countryCode>
+    <flag>kuwait</flag>
+  </Country>
+  <Country>
+    <name>lithuania</name>
+    <capital>vilnius</capital>
+    <population>543500</population>
+    <governmentType>parliamentary democracy</governmentType>
+    <currency>litas</currency>
+    <currencyCode>ltl</currencyCode>
+    <countryCode>ltu</countryCode>
+    <flag>lithuania</flag>
+  </Country>
+  <Country>
+    <name>luxembourg</name>
+    <capital>luxembourg</capital>
+    <population>78800</population>
+    <governmentType>constitutional monarchy</governmentType>
+    <currency>u.s. dollar</currency>
+    <currencyCode>usd</currencyCode>
+    <countryCode>mhl</countryCode>
+    <flag>luxembourg</flag>
+  </Country>
+  <Country>
+    <name>marshall islands</name>
+    <capital>majuro</capital>
+    <population>20500</population>
+    <governmentType>constitutional government</governmentType>
+    <currency>u.s. dollar</currency>
+    <currencyCode>usd</currencyCode>
+    <countryCode>mhl</countryCode>
+    <flag>marshall islands</flag>
+  </Country>
+  <Country>
+    <name>mauritania</name>
+    <capital>nouakchott</capital>
+    <population>661400</population>
+    <governmentType>military rule</governmentType>
+    <currency>ouguiya</currency>
+    <currencyCode>usd</currencyCode>
+    <countryCode>mrt</countryCode>
+    <flag>mauritania</flag>
+  </Country>
+  <Country>
+    <name>nepal</name>
+    <capital>kathmandu</capital>
+    <population>1203100</population>
+    <governmentType>republic</governmentType>
+    <currency>nepalese rupee</currency>
+    <currencyCode>npr</currencyCode>
+    <countryCode>npl</countryCode>
+    <flag>nepal</flag>
+  </Country>
+  <Country>
+    <name>romania</name>
+    <capital>bucharest</capital>
+    <population>1937000</population>
+    <governmentType>republic</governmentType>
+    <currency>leu</currency>
+    <currencyCode>ron</currencyCode>
+    <countryCode>rou</countryCode>
+    <flag>romania</flag>
+  </Country>
+  <Country>
+    <name>new zealand</name>
+    <capital>wellington</capital>
+    <population>342500</population>
+    <governmentType>parliamentary democracy</governmentType>
+    <currency>new zealand dollar</currency>
+    <currencyCode>nzd</currencyCode>
+    <countryCode>nzl</countryCode>
+    <flag>new zealand</flag>
+  </Country>
+  <Country>
+    <name>pakistan</name>
+    <capital>islamabad</capital>
+    <population>601600</population>
+    <governmentType>military rule</governmentType>
+    <currency>pakistan rupee</currency>
+    <currencyCode>pkr</currencyCode>
+    <countryCode>pak</countryCode>
+    <flag>pakistan</flag>
+  </Country>
+  <Country>
+    <name>palau</name>
+    <capital>melekeok</capital>
+    <population>1000</population>
+    <governmentType>constitutional republic</governmentType>
+    <currency>u.s. dollar</currency>
+    <currencyCode>usd</currencyCode>
+    <countryCode>plw</countryCode>
+    <flag>palau</flag>
+  </Country>
+  <Country>
+    <name>russia</name>
+    <capital>moscow</capital>
+    <population>11621000</population>
+    <governmentType>constitutional federation</governmentType>
+    <currency>russian ruble </currency>
+    <currencyCode>rub</currencyCode>
+    <countryCode>rus</countryCode>
+    <flag>russia</flag>
+  </Country>
+  <Country>
+    <name>st. lucia</name>
+    <capital>castries</capital>
+    <population>21000</population>
+    <governmentType>parliamentary democracy</governmentType>
+    <currency>east caribbean dollar</currency>
+    <currencyCode>xcd</currencyCode>
+    <countryCode>lca</countryCode>
+    <flag>st. lucia</flag>
+  </Country>
+  <Country>
+    <name>senegal</name>
+    <capital>dakar</capital>
+    <population>3035000</population>
+    <governmentType>multiparty democractic republic</governmentType>
+    <currency>cfa franc</currency>
+    <currencyCode>xaf</currencyCode>
+    <countryCode>sen</countryCode>
+    <flag>senegal</flag>
+  </Country>
+  <Country>
+    <name>serbia</name>
+    <capital>belgrade</capital>
+    <population>1135000</population>
+    <governmentType>republic</governmentType>
+    <currency>euro</currency>
+    <currencyCode>rsd</currencyCode>
+    <countryCode>srb</countryCode>
+    <flag>serbia</flag>
+    <currency>dinar</currency>
+  </Country>
+  <Country>
+    <name>afghanistan</name>
+    <capital>kabul</capital>
+    <population>2206300</population>
+    <governmentType>taliban</governmentType>
+    <currency>afghani</currency>
+    <currencyCode>afn</currencyCode>
+    <countryCode>afg</countryCode>
+    <flag>afghanistan</flag>
+  </Country>
+  <Country>
+    <name>sweden</name>
+    <capital>stockholm</capital>
+    <population>1385000</population>
+    <governmentType>constitutional monarchy</governmentType>
+    <currency>krona</currency>
+    <currencyCode>knr</currencyCode>
+    <countryCode>swe</countryCode>
+    <flag>sweden</flag>
+  </Country>
+  <Country>
+    <name>switzerland</name>
+    <capital>bern</capital>
+    <population>353000</population>
+    <governmentType>federal republic</governmentType>
+    <currency>swiss franc</currency>
+    <currencyCode>sek</currencyCode>
+    <countryCode>swz</countryCode>
+    <flag>switzerland</flag>
+  </Country>
+  <Country>
+    <name>turkey</name>
+    <capital>ankara</capital>
+    <population>4194000</population>
+    <governmentType>"republican parliamentary democracy</governmentType>
+    <currency>turkish lira</currency>
+    <currencyCode>try</currencyCode>
+    <countryCode>tur</countryCode>
+    <flag>turkey</flag>
+  </Country>
+  <Country>
+    <name>syrian arab republic</name>
+    <capital>damascus</capital>
+    <population>2650000</population>
+    <governmentType>"republican parliamentary democracy</governmentType>
+    <currency>syrian pound</currency>
+    <currencyCode>syp</currencyCode>
+    <countryCode>syr</countryCode>
+    <flag>syrian arab republic</flag>
+  </Country>
+  <Country>
+    <name>turkmenistan</name>
+    <capital>ashgabat</capital>
+    <population>683000</population>
+    <governmentType>one-party republic</governmentType>
+    <currency>manat</currency>
+    <currencyCode>tmt</currencyCode>
+    <countryCode>tkm</countryCode>
+    <flag>turkmenistan</flag>
+  </Country>
+  <Country>
+    <name>tuvalu</name>
+    <capital>funafuti</capital>
+    <population>5000</population>
+    <governmentType>constitutional monarchy with a parliamentary democracy</governmentType>
+    <currency>australian dollar</currency>
+    <currencyCode>aud</currencyCode>
+    <countryCode>tuv</countryCode>
+    <flag>tuvalu</flag>
+  </Country>
+  <Country>
+    <name>united arab emirates</name>
+    <capital>abu dhabi</capital>
+    <population>942000</population>
+    <governmentType>federation</governmentType>
+    <currency>u.a.e. dirham </currency>
+    <currencyCode>aed</currencyCode>
+    <countryCode>are</countryCode>
+    <flag>united arab emirates</flag>
+  </Country>
+  <Country>
+    <name>united kingdom</name>
+    <capital>london</capital>
+    <population>9005000</population>
+    <governmentType>constitutional monarchy and parliamentary democracy</governmentType>
+    <currency>pound sterling</currency>
+    <currencyCode>gbp</currencyCode>
+    <countryCode>gbr</countryCode>
+    <flag>united kingdom</flag>
+  </Country>
+  <Country>
+    <name>united states</name>
+    <capital>washington dc</capital>
+    <population>4705000</population>
+    <governmentType>federal republic</governmentType>
+    <currency>dollar</currency>
+    <currencyCode>usd</currencyCode>
+    <countryCode>usa</countryCode>
+    <flag>unitedstates</flag>
+  </Country>
+  <Country>
+    <name>uruguay</name>
+    <capital>montevideo</capital>
+    <population>1672000</population>
+    <governmentType>constitutional republic</governmentType>
+    <currency>uruguay peso</currency>
+    <currencyCode>uyu</currencyCode>
+    <countryCode>ury</countryCode>
+    <flag>uruguay</flag>
+  </Country>
+  <Country>
+    <name>vietnam</name>
+    <capital>hanoi</capital>
+    <population>2955000</population>
+    <governmentType>communist state</governmentType>
+    <currency>dong</currency>
+    <currencyCode>vnd</currencyCode>
+    <countryCode>vnm</countryCode>
+    <flag>vietnam</flag>
+  </Country>
+</Countries>
